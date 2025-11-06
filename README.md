@@ -3,7 +3,7 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=white)]()
 [![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-Data%20Warehouse-669DF6?logo=googlebigquery&logoColor=white)]()
 [![DAX](https://img.shields.io/badge/DAX-Analytics%20Expressions-00A3E0?logo=powerbi&logoColor=white)]()
-[![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoftexcel&logoColor=white)]()
+[![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning%20%26%20Transformation-217346?logo=powerbi&logoColor=black)]()
 [![Dashboard](https://img.shields.io/badge/Dashboard-Interactive%20Visualization-FFB000?logo=tableau&logoColor=white)]()
 [![Visualization](https://img.shields.io/badge/Data%20Visualization-Storytelling%20with%20Data-8A2BE2)]()
 [![Time Intelligence](https://img.shields.io/badge/Time%20Intelligence-YTD%20%26%20YOY%20Analysis-1F75FE)]()
