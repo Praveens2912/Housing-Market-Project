@@ -8,8 +8,6 @@
 [![Visualization](https://img.shields.io/badge/Data%20Visualization-Storytelling%20with%20Data-8A2BE2)]()
 [![Time Intelligence](https://img.shields.io/badge/Time%20Intelligence-YTD%20%26%20YOY%20Analysis-1F75FE)]()
 
-![tierra-mallorca-rgJ1J8SDEAY-unsplash](https://github.com/user-attachments/assets/ac8f971c-c5c7-4b53-b406-e361ca9393a3)
-
 
 ### 📊 Project Summary
 This project analyzes **housing market trends** using **Google BigQuery** for data processing and **Power BI** for dashboard visualization.  
@@ -49,27 +47,40 @@ To understand how factors such as **region, sales type, and house characteristic
 ---
 
 ## 📊 Power BI Dashboard Highlights
-### Dashboard Images :
-<img width="1247" height="721" alt="Screenshot 2025-11-06 071631" src="https://github.com/user-attachments/assets/a1d5f9ef-f862-4cc2-9377-ec39213409dd" />
-<img width="1248" height="722" alt="Screenshot 2025-11-06 071707" src="https://github.com/user-attachments/assets/1848854e-ded8-480d-a3b3-b5a0ee4f29b3" />
-<img width="1250" height="727" alt="Screenshot 2025-11-06 071740" src="https://github.com/user-attachments/assets/6b62324b-ff51-41c4-ac24-ffa3dd24a7ee" />
-
 ### Dashboard Sections:
 1. **House Market Overview**
    - YOY Sales Growth by Sales Type  
    - Offer Price vs Purchase Price Scatter  
    - Median Price Change by Region  
-   - 12-Month Sales & Units Sold KPIs  
+   - 12-Month Sales & Units Sold KPIs
+  
+     **Dashboard:**
+     
+     <img src="https://github.com/user-attachments/assets/a1d5f9ef-f862-4cc2-9377-ec39213409dd" width="800" />
+     
+     ---
 2. **Sales Performance**
    - Total Sales by Region  
    - YTD Sales Progress Table  
    - Average SQM Price by Region
-   
+  
+     
+     **Dashboard:**
+     
+     <img src="https://github.com/user-attachments/assets/1848854e-ded8-480d-a3b3-b5a0ee4f29b3" width="800" />
+
+     ---
+     
 3. **Key Influencers**
    - AI insights on what drives Purchase Price (e.g., Age, Region)
 4. **Comparative Analysis**
    - Offer-to-SQM Ratio by Sales Type  
    - Average Offer vs Purchase Price by House Type
+  
+     
+     **Dashboard:**
+     
+     <img src="https://github.com/user-attachments/assets/6b62324b-ff51-41c4-ac24-ffa3dd24a7ee" width="800" />
 
 ---
 
