@@ -49,6 +49,11 @@ To understand how factors such as **region, sales type, and house characteristic
 ---
 
 ## 📊 Power BI Dashboard Highlights
+### Dashboard Images :
+<img width="1247" height="721" alt="Screenshot 2025-11-06 071631" src="https://github.com/user-attachments/assets/a1d5f9ef-f862-4cc2-9377-ec39213409dd" />
+<img width="1248" height="722" alt="Screenshot 2025-11-06 071707" src="https://github.com/user-attachments/assets/1848854e-ded8-480d-a3b3-b5a0ee4f29b3" />
+<img width="1250" height="727" alt="Screenshot 2025-11-06 071740" src="https://github.com/user-attachments/assets/6b62324b-ff51-41c4-ac24-ffa3dd24a7ee" />
+
 ### Dashboard Sections:
 1. **House Market Overview**
    - YOY Sales Growth by Sales Type  
@@ -58,7 +63,8 @@ To understand how factors such as **region, sales type, and house characteristic
 2. **Sales Performance**
    - Total Sales by Region  
    - YTD Sales Progress Table  
-   - Average SQM Price by Region  
+   - Average SQM Price by Region
+   
 3. **Key Influencers**
    - AI insights on what drives Purchase Price (e.g., Age, Region)
 4. **Comparative Analysis**
